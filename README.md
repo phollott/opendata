@@ -1,7 +1,9 @@
 # opendata
 Open Data is Public
 
-This repository comprises examples I have collected and modified using Mike Bostock's d3.js library to support the idea of data visualization. Whereas his examples typically use the bl.ocks pastebin, I am storing these to Github and then piping them through jsFiddle, which makes them very easy to fork and tweak. My premise here is that Open Data projects will benefit most from:
+This repository comprises examples I have collected and modified using Mike Bostock's d3.js library to support the idea of data visualization. Whereas his examples typically use the bl.ocks pastebin, I am storing these to Github and then piping them through jsFiddle, which makes them very easy to fork and tweak. 
+
+My premise here is that Open Data projects will benefit most from:
 + Data Visualization
 + Data Enrichment
 + Smart Adaptation

@@ -13,4 +13,4 @@ My premise here is that Open Data projects will benefit most from:
 + Data Enrichment
 + Smart Adaptation
 
-Client-side libraries like D3.js provide superior Data Visualization.
+Client-side libraries like d3.js provide superior Data Visualization.

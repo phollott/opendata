@@ -1,0 +1,11 @@
+http://jsfiddle.net/gh/get/d3/3.0.4/phollott/opendata/tree/master/d3easing/
+requires d3.js
+---
+name: Easing D3 Demo
+description: I ditched this approach to use SnapSVG instead, so it's backed up here
+authors:
+- Piers Hollott
+normalize_css: no
+wrap: l
+panel_js: 0
+panel_css: 0

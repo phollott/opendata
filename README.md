@@ -1,7 +1,7 @@
 # opendata
-Open Data is Public
+Open Data is a public repository.
 
-This repository comprises examples I have forked and modified using Mike Bostock's [d3.js](http://d3js.org/) (Data Driven Documents) library to support data visualization. Whereas his examples use the bl.ocks pastebin, I am storing these to Github, routed through jsFiddle, making them easy to fork and tweak. 
+This repository comprises examples I have forked and modified using Mike Bostock's [d3.js](http://d3js.org/) (Data Driven Documents) library to support data visualization. Where his examples use the bl.ocks pastebin, I am storing these to GitHub, routed through jsFiddle, to make them easy to fork. 
 
 Contents include:
 + [D3 Quadrant Example](http://jsfiddle.net/gh/get/d3/3.0.4/phollott/opendata/tree/master/d3quadrant/)
@@ -13,7 +13,12 @@ My premise here is that Open Data projects will benefit most from:
 + Data Enrichment
 + Smart Adaptation
 
-Client-side libraries like d3.js provide superior Data Visualization.
+Client-side libraries like d3.js provide superior Data Visualization. When access to open data is combined with tools for making these data useful and meaningful, the quality of the data can be improved.
+
+Data Enrichment
+----------------
+
+Projects like the [Yosemite Project](http://yosemitemanifesto.org/) suggest that RDF can be used as a universal language for representation of information. Mapping various information standards into RDF has the benefit of facilitating both standardization and transformation; but there is another benefit of mapping industry-specific information into a more generic format like RDF, as this will allow clinical documents and messages containing lab results or prescriptions to non-clinical assets, like product brochures and other ancillary services.
 
 Smart Adaptation
 ----------------

@@ -1,6 +1,3 @@
-# opendata
-Open Data is a public repository.
-
 This repository comprises examples I have forked and modified using Mike Bostock's [d3.js](http://d3js.org/) (Data Driven Documents) library to support data visualization. Where his examples use the bl.ocks pastebin, I am storing these to GitHub, routed through jsFiddle, to make them easy to fork. 
 
 Contents include:

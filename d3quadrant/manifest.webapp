@@ -1,0 +1,13 @@
+{
+  "name": "d3quadrant",
+  "description": "For testing purposes",
+  "launch_path": "/demo.html",
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Piers Hollott",
+    "url": "http://phollott.github.io/opendata"
+  },
+  "default_locale": "en"
+}

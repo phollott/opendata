@@ -1,0 +1,104 @@
+<div>Quadrant: Granularity vs. Certainty</div>
+<div id="scatter-load"></div>
+<script>
+    var xaxislabel = "Granularity/Scale";
+    var yaxislabel = "Certainty";
+
+    var items = [{
+        "name": "Maintenance (AMS)",
+            "category": "known",
+            "price": 3,
+            "rating": 6.5,
+            "size": 5
+    }, {
+        "name": "DM Redesign",
+            "category": "known",
+            "price": 4,
+            "rating": 8.5,
+            "size": 5
+    }, {
+        "name": "Analytics (BI)",
+            "category": "known",
+            "price": 2,
+            "rating": 7.5,
+            "size": 5
+    }, {
+        "name": "EMR (ADS)",
+            "category": "known",
+            "price": 1,
+            "rating": 5.5,
+            "size": 5
+    }, {
+    "name": "RFP 2017",
+            "category": "unknown",
+            "price": 4.3,
+            "rating": 1.5,
+            "size": 5
+    }, {
+    "name": "SWT Schedule",
+            "category": "unknown",
+            "price": 3.5,
+            "rating": 2.5,
+            "size": 5
+    }, {
+    "name": "Stability/Breakage (AMS)",
+            "category": "unknown",
+            "price": 3,
+            "rating": 4,
+            "size": 5
+    }, {
+    "name": "Questions for Analytics",
+            "category": "unknown",
+            "price": 1.5,
+            "rating": 3,
+            "size": 5
+    }, {
+        "name": "Q: Expertise",
+            "category": "player",
+            "price": 7,
+            "rating": 7,
+            "size": 5
+    }, {
+    "name": "O: Technology",
+            "category": "player",
+            "price": 9,
+            "rating": 6,
+            "size": 5
+    }, {
+        "name": "H: Analytics",
+            "category": "player",
+            "price": 6,
+            "rating": 5.5,
+            "size": 5
+    }, {
+        "name": "S: Relationships",
+            "category": "player",
+            "price": 8,
+            "rating": 9,
+            "size": 5
+    }, {
+        "name": "HIAL Separation",
+            "category": "principle",
+            "price": 8,
+            "rating": 1,
+            "size": 5
+    }, {
+        "name": "Privacy by Design",
+            "category": "principle",
+            "price": 7.5,
+            "rating": 3.6,
+            "size": 5    
+    }, {
+        "name": "Open by Default",
+            "category": "principle",
+            "price": 8.5,
+            "rating": 2,
+            "size": 5
+    }, {
+        "name": "Infoway Roadmap 2015",
+            "category": "principle",
+            "price": 6.5,
+            "rating": 2.5,
+            "size": 5
+    }];
+</script>

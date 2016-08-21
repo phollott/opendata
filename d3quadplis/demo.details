@@ -1,8 +1,8 @@
-http://jsfiddle.net/gh/get/d3/3.0.4/phollott/opendata/tree/master/d3quadrant/
+http://jsfiddle.net/gh/get/d3/3.0.4/phollott/opendata/tree/master/d3quadplis/
 requires d3.js
 ---
 name: Quadrant D3 Demo
-description: Example of how you can use d3 to create a simple quadrant diagram based on not so basic flare data
+description: Example of how you can use d3 to create a simple quadrant diagram based on some operational data
 authors:
 - Piers Hollott
 normalize_css: no
